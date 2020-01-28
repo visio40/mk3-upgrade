@@ -1,4 +1,4 @@
-## Upgrading the Prusa mk3 and its influence on wall quality
+## Upgrading the Panhead Prusa mk3 and its influence on wall quality
 
 :arrow_down: **Images below!** :arrow_down:
 
